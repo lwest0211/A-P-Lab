@@ -51,67 +51,76 @@ In this lab you will learn to identify the principle internal and external struc
 
 ## **Prelab Activities**
 
-## **Prelab Activity 3.1**
+## Prelab Activity 3.1
 
-Define the terms that are essential to this chapter.
+## Cell Structure and Function
 
-## **Cell Structure and Function**
+| Term | Definition |
+|----|----|
+| Cytoplasm | All material between plasma membrane and nucleus; includes organelles and cytosol |
+| Cytosol | Fluid portion of cytoplasm |
+| Organelles | Specialized structures that perform cell functions |
 
-| Term       | Definition |
-|------------|------------|
-| Cytoplasm  |            |
-| Cytosol    |            |
-| Organelles |            |
+### Organelle Types
 
-#### Orgarnelle Types:
+| Term                         | Definition                            |
+|------------------------------|---------------------------------------|
+| Rough Endoplasmic Reticulum  | Protein synthesis and transport       |
+| Smooth Endoplasmic Reticulum | Lipid synthesis and detoxification    |
+| Golgi apparatus              | Modifies, packages, ships molecules   |
+| Mitochondrion                | ATP production                        |
+| Lysosomes                    | Intracellular digestion               |
+| Peroxisomes                  | Detoxification, breakdown of peroxide |
+| Microfilaments               | Structural support, movement          |
+| Microtubules                 | Cell shape, transport, spindle fibers |
+| Cilia                        | Move fluid across surface             |
+| Flagella                     | Cell locomotion                       |
+| Nucleus                      | Stores DNA, control center            |
+| Nucleolus                    | Ribosome production                   |
 
-| Term                         | Definition |
-|------------------------------|------------|
-| Rough Endoplasmic Reticulum  |            |
-| Smooth Endoplasmic reticulum |            |
-| Golgi apparatus              |            |
-| Mitochondrion                |            |
-| Lysosomes                    |            |
-| Peroxisomes                  |            |
-| Microfilaments               |            |
-| Microtubules                 |            |
-| Cilia                        |            |
-| Flagella                     |            |
-| Nucleus                      |            |
-| Nucleolus                    |            |
+## Membrane Transport
 
-### **Membrane Transport**
+-   **Passive Transport:** movement without ATP down concentration gradient\
+-   **Active Transport:** movement requiring ATP against gradient\
+-   **Diffusion:** movement from high to low concentration\
+-   **Osmosis:** diffusion of water across membrane\
+-   **Cell Cycle:** sequence of growth and division\
+-   **Interphase:** G1, S, G2 growth and DNA replication\
+-   **Mitosis:** nuclear division
 
--   Passive Transport \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Active Transport \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Diffusion \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Osmosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cell Cycle \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Interphase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Mitosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Stages of Interphase and Mitosis
 
-### **Stages of Interphase and Mitosis**
+-   **Interphase**:\
+    The period of the cell cycle when the cell grows, carries out normal functions, and prepares for division. It includes G1, S, and G2 phases.
 
--   Interphase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   G1 phase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   S phase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   G2 phase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **G1 phase (Gap 1)**:\
+    The cell increases in size, produces proteins and organelles, and performs its normal metabolic functions.
 
-## **Prelab Activity 3.2**
+-   **S phase (Synthesis)**:\
+    DNA is replicated, resulting in duplicated chromosomes (sister chromatids).
+
+-   **G2 phase (Gap 2)**:\
+    The cell continues to grow, produces proteins needed for mitosis, and checks that DNA replication is complete and accurate.
+
+## Prelab Activity 3.2
 
 Identify the stages of mitosis and briefly describe their appearance.
 
-**Table 3.1 Table of Events and Cell Characteristics**
+------------------------------------------------------------------------
 
-| Stage       | Events | Appearance of cell |
-|-------------|--------|--------------------|
-| Prophase    |        |                    |
-| Metaphase   |        |                    |
-| Anaphase    |        |                    |
-| Telophase   |        |                    |
-| Cytokinesis |        |                    |
+## Table 3.1 Table of Events and Cell Characteristics
 
-## **Prelab Activity 3.3**
+| Stage | Events | Appearance of Cell |
+|----|----|----|
+| **Prophase** | Chromatin condenses into chromosomes; nuclear envelope breaks down; spindle fibers form | Chromosomes become visible as thick, condensed structures; nucleus begins to disappear |
+| **Metaphase** | Chromosomes align at the cell’s equator; spindle fibers attach to centromeres | Chromosomes lined up in the middle (metaphase plate); spindle fibers clearly visible |
+| **Anaphase** | Sister chromatids separate and are pulled to opposite poles | Chromatids appear V-shaped as they move toward opposite ends of the cell |
+| **Telophase** | Nuclear envelopes reform around each set of chromosomes; chromosomes decondense | Two nuclei begin to form; chromosomes become less visible (more diffuse) |
+| **Cytokinesis** | Cytoplasm divides to form two daughter cells | Cell membrane pinches (cleavage furrow) in animal cells; two separate cells form |
+
+------------------------------------------------------------------------
+
+## Prelab Activity 3.3
 
 Using your textbook identify the following structures of the cell.
 
@@ -119,22 +128,22 @@ Using your textbook identify the following structures of the cell.
 
 Figure 3.1 Diagram of the cell.
 
-|     |     |
-|-----|-----|
-| 1   |     |
-| 2   |     |
-| 3   |     |
-| 4   |     |
-| 5   |     |
-| 6   |     |
-| 7   |     |
-| 8   |     |
-| 9   |     |
-| 10  |     |
-| 11  |     |
-| 12  |     |
-| 13  |     |
-| 14  |     |
+| Number | Structure                    |
+|--------|------------------------------|
+| 1      | Nucleolus                    |
+| 2      | Nucleus                      |
+| 3      | Ribosome                     |
+| 4      | Vesicle                      |
+| 5      | Rough endoplasmic reticulum  |
+| 6      | Golgi apparatus              |
+| 7      | Cytoskeleton                 |
+| 8      | Smooth endoplasmic reticulum |
+| 9      | Mitochondrion                |
+| 10     | Vacuole                      |
+| 11     | Cytosol                      |
+| 12     | Lysosome                     |
+| 13     | Centrosome (Centrioles)      |
+| 14     | Cell membrane                |
 
 ### **Prelab Activity 3.4**
 
@@ -144,15 +153,15 @@ Cell Membrane Structure; Label the structures in this diagram of a typical cell 
 
 **Figure 3.2** Diagram of the cell membrane.
 
-|     |     |
-|-----|-----|
-| a   |     |
-| b   |     |
-| c   |     |
-| d   |     |
-| e   |     |
-| f   |     |
-| g   |     |
+| Label | Structure                                    |
+|-------|----------------------------------------------|
+| a     | Phospholipid bilayer                         |
+| b     | Hydrophilic (polar) heads                    |
+| c     | Hydrophobic (nonpolar) tails                 |
+| d     | Integral (transmembrane) protein             |
+| e     | Peripheral protein                           |
+| f     | Cholesterol                                  |
+| g     | Carbohydrate chain (glycoprotein/glycolipid) |
 
 ## **Prelab Activity 3.5**
 
@@ -162,19 +171,32 @@ Cell Cycle: In the space below draw the phases and stages of the cell cycle:
 
 Define the following terms associated with the cell cycle.
 
--   Cytokinesis: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Interphase: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   M-phase: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Chromosome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Chromatin: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **Cytokinesis**:\
+    The division of the cytoplasm to form two separate daughter cells at the end of cell division.
 
-**Mitosis:** List the stages and processes of mitosis in M-phase:
+-   **Interphase**:\
+    The stage of the cell cycle in which the cell grows, performs normal functions, and replicates its DNA in preparation for division (includes G1, S, and G2 phases).
 
--   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **M-phase (Mitotic phase)**:\
+    The phase of the cell cycle in which the cell divides, including mitosis (division of the nucleus) and cytokinesis (division of the cytoplasm).
+
+-   **Chromosome**:\
+    A tightly coiled structure of DNA and proteins that carries genetic information, visible during cell division.
+
+-   **Chromatin**:\
+    The uncoiled, thread-like form of DNA found in the nucleus when the cell is not dividing.
+
+------------------------------------------------------------------------
+
+## Mitosis
+
+List the stages and processes of mitosis in M-phase:
+
+-   **Prophase**: Chromosomes condense; nuclear envelope breaks down; spindle fibers form.\
+-   **Metaphase**: Chromosomes align at the center (metaphase plate) of the cell.\
+-   **Anaphase**: Sister chromatids separate and move toward opposite poles.\
+-   **Telophase**: Nuclear envelopes reform; chromosomes begin to decondense.\
+-   **Cytokinesis**: Cytoplasm divides, forming two identical daughter cells.
 
 ## **Lab Activities:**
 
@@ -221,7 +243,7 @@ Define the following terms associated with the cell cycle.
 Organelles in the cell above are labelled as follows:
 
 |  |  |
-|-------------|----------------------------------------------------------|
+|----|----|
 | 1 | Nucleolus |
 | 2 | Nucleus |
 | 3 | Ribosome (dots as part of 5) |
@@ -241,11 +263,39 @@ Organelles in the cell above are labelled as follows:
 
 Review the material related to the composition of a cell's membrane. You should be able to answer the following questions.
 
--   What are the primary macromolecules that make up the membrane?
--   What are the functions of the following components:
-    -   Phospholipids
-    -   Cholesterol
-    -   Proteins
+--
+
+### What are the primary macromolecules that make up the membrane?
+
+The cell membrane is composed of three main types of macromolecules:
+
+-   **Lipids** (primarily phospholipids and cholesterol)\
+-   **Proteins**\
+-   **Carbohydrates** (attached to proteins and lipids as glycoproteins and glycolipids)
+
+These components form the **fluid mosaic structure** of the membrane.
+
+------------------------------------------------------------------------
+
+### What are the functions of the following components?
+
+#### Phospholipids
+
+-   Form a **bilayer** with hydrophilic heads facing outward and hydrophobic tails facing inward\
+-   Create a **selectively permeable barrier**\
+-   Provide the basic structural framework of the membrane
+
+#### Cholesterol
+
+-   Maintains **membrane fluidity and stability**\
+-   Prevents the membrane from becoming too rigid in cold temperatures and too fluid in warm temperatures
+
+#### Proteins
+
+-   Function in **transport** (channels and carrier proteins)\
+-   Act as **receptors** for cell communication\
+-   Provide **structural support**\
+-   Serve as **enzymes** to speed up chemical reactions
 
 ## **Components of the cell membrane continued.**
 
@@ -271,29 +321,31 @@ Using the information in table 3.2 review the cells structures and function(s) t
 
 **Table 3.1 Identify the Organelles and their Function.**
 
-| Structure                    | Model Number | Organelle function |
-|------------------------------|--------------|--------------------|
-| Plasma membrane              |              |                    |
-| Cilia                        |              |                    |
-| Microvilli                   |              |                    |
-| Nucleolus                    |              |                    |
-| Nucleus                      |              |                    |
-| Nuclear envelope             |              |                    |
-| Nuclear pore                 |              |                    |
-| Ribosome                     |              |                    |
-| Vesicle                      |              |                    |
-| Peroxisome                   |              |                    |
-| Lysosome                     |              |                    |
-| Golgi apparatus              |              |                    |
-| Mitochondrion                |              |                    |
-| Rough endoplasmic reticulum  |              |                    |
-| Smooth endoplasmic reticulum |              |                    |
-| Centriole                    |              |                    |
+| Structure | Model Number | Organelle Function |
+|----|----|----|
+| Plasma membrane | 6 | Selectively permeable barrier controlling movement in and out of the cell |
+| Cilia | — | Moves substances across the cell surface (not clearly shown on this model) |
+| Microvilli | 15 | Increases surface area for absorption |
+| Nucleolus | 2 | Produces ribosomes |
+| Nucleus | 1 | Contains DNA and controls cell activities |
+| Nuclear envelope | 1 | Surrounds nucleus and regulates transport |
+| Nuclear pore | 14 | Allows movement of materials between nucleus and cytoplasm |
+| Ribosome | 18 | Site of protein synthesis |
+| Vesicle | 17 | Transports and stores materials |
+| Peroxisome | 21 | Detoxifies harmful substances and breaks down fatty acids |
+| Lysosome | 19 | Digests waste and cellular debris |
+| Golgi apparatus | 20 | Modifies, sorts, and packages proteins and lipids |
+| Mitochondrion | 3 | Produces ATP (energy) |
+| Rough endoplasmic reticulum | 4 | Synthesizes proteins (ribosome-studded) |
+| Smooth endoplasmic reticulum | 5 | Synthesizes lipids and detoxifies substances |
+| Centriole | 16 | Involved in cell division and spindle formation |
+
+------------------------------------------------------------------------
 
 **Table 3.2 Parts of a Typical Animal Cell**
 
 | Name | Function | Features | Appearance |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Centriole | Anchor for cytoskeleton, organizes cell division by forming spindle fibers | Visible only when active nuclear division takes place (mitosis) | ![Figure 3.7](images/clipboard-1934241572.png) |
 | Chromatin | A complex of DNA and protein found in eukaryotic cells whose primary function is to package long DNA molecules into more compact, denser structures | Most of the coloration of the nucleus is from the chromatin, except for that of the nucleolus. | ![Figure 3.8](images/clipboard-4062272061.png) |
 | Cytoplasm | All of the material within a eukaryotic cell, enclosed by the cell membrane, except for the cell nucleus | A clear sol-gel that may contain granular substances in it. | ![Figure 3.9](images/fig3_9.jpg) |
@@ -375,50 +427,57 @@ Examine the phases of mitosis from the figures below.
 
 ## **Post Lab Activities: material review**
 
-## **Post Lab Activity 3.1**
+## Post Lab Activity 3.1
 
-1.  The smallest independent unit that is alive is the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-2.  The region in a human cell that houses the bulk of the genetic material is the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-3.  Most of the cellular machinery in human cells is in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-4.  The basic structure of a cell's membrane is a(n) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ bilayer with associated proteins that can be either \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+-   The smallest independent unit that is alive is the **cell**.
 
-## **Post Lab Activity 3.2**
+-   The region in a human cell that houses the bulk of the genetic material is the **nucleus**.
+
+-   Most of the cellular machinery in human cells is in the **cytoplasm**.
+
+-   The basic structure of a cell's membrane is a(n) **phospholipid** bilayer with associated proteins that can be either **integral** or **peripheral**.
+
+------------------------------------------------------------------------
+
+## Post Lab Activity 3.2
+
+### Multiple Choice Questions
 
 **Multiple choice questions:**
 
 1.  Because they are embedded within the membrane, ion channels are examples of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
     a)  receptor proteins
-    b)  integral proteins
+    b)  **integral proteins**
     c)  peripheral proteins
     d)  glycoproteins
 2.  Which of the following structures could be found within the nucleolus? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     a)  chromatin
     b)  histones
-    c)  ribosomes
+    c)  **ribosomes**
     d)  nucleosomes
 3.  Choose the term that best completes the following analogy: Cytoplasm is to cytosol as a swimming pool containing chlorine and flotation toys is to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
     a)  the walls of the pool
     b)  the chlorine
     c)  the flotation toys
-    d)  the water
+    d)  **the water**
 4.  The rough ER has its name due to what associated structures? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     a)  Golgi apparatus
-    b)  ribosomes
+    b)  **ribosomes**
     c)  lysosomes
     d)  proteins
 5.  Which of the following is a function of the rough ER? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    a)  production of proteins
+    a)  **production of proteins**
     b)  detoxification of certain substances
     c)  synthesis of steroid hormones
     d)  regulation of intracellular calcium concentration
 6.  Which of the following organelles produces large quantities of ATP when both glucose and oxygen are available to the cell? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    a)  mitochondria
+    a)  **mitochondria**
     b)  peroxisomes
     c)  lysosomes
     d)  ER
 7.  Which of the following phases is characterized by preparation for DNA synthesis? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     a)  G0
-    b)  G1
+    b)  **G1**
     c)  G2
     d)  S
 
@@ -427,17 +486,17 @@ Examine the phases of mitosis from the figures below.
 ## **Table 3.2 Complete the Matching Activity**
 
 | Name | Description |
-|---------------------------|---------------------------------------------|
-| 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
-| 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
-| 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
-| 4\) \_\_\_\_\_\_\_\_\_\_ S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
-| 5\) \_\_\_\_\_\_\_\_\_\_ Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
-| 6\) \_\_\_\_\_\_\_\_\_\_ Prophase | f\) The summary of the G1, S, G2 phases |
-| 7\) \_\_\_\_\_\_\_\_\_\_ G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
-| 8\) \_\_\_\_\_\_\_\_\_\_ Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
-| 9\) \_\_\_\_\_\_\_\_\_\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
-| 10\) \_\_\_\_\_\_\_\_\_\_ Anaphase | j\) The final stage in cell division |
+|----|----|
+| 1\) **Interphase** | f\) The summary of the G1, S, G2 phases |
+| 2\) **G2 Phase** | e\) The cell grows a second time to reorganize its contents in preparation for mitosis |
+| 3\) **Metaphase** | i\) Occurs when the cell's chromosomes condense and align in the center of the dividing cell |
+| 4\) **S phase** | d\) Occurs when the cell synthesizes a complete copy of the DNA |
+| 5\) **Mitosis (M phase)** | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells |
+| 6\) **Prophase** | a\) The first stage of mitosis |
+| 7\) **G1 phase** | c\) The cell grows physically larger, making the molecular building blocks it will need |
+| 8\) **Cytokinesis** | b\) The division of the cytoplasm of a cell |
+| 9\) **Telophase** | j\) The final stage in cell division |
+| 10\) **Anaphase** | h\) Observed when chromosomes move toward opposite ends of the spindle |
 
 ## **Post Lab Activity 3.4 Crosswords**
 
@@ -449,23 +508,31 @@ Complete the crossword activity.
 
 ### **Across**
 
--   **3** a large organelle in eukaryotic organisms which protects the DNA (4,7)
+**3.** **Nuclear envelope**\
+A large organelle in eukaryotic organisms which protects the DNA.
 
--   **5** a network of lipids and proteins that forms the boundary between a cell's contents and the outside of the cell. (6,8)
+**5.** **Cell membrane**\
+A network of lipids and proteins that forms the boundary between a cell's contents and the outside of the cell.
 
--   **6** specialized vesicles within cells that digest large molecules using hydrolytic enzymes. (8)
+**6.** **Lysosomes**\
+Specialized vesicles within cells that digest large molecules using hydrolytic enzymes.
 
--   **7** membrane-bound organelles involved in lipid metabolism and the conversion of reactive oxygen species such as hydrogen peroxide into safer molecules like water and oxygen. (10)
+**7.** **Peroxisomes**\
+Membrane-bound organelles involved in lipid metabolism and the conversion of reactive oxygen species such as hydrogen peroxide into safer molecules like water and oxygen.
 
-### **Down**
+### Down
 
--   **1** the site in the nucleus where the several different parts of ribosomes are produced and exported (9)
+**1.** **Nucleolus**\
+The site in the nucleus where the several different parts of ribosomes are produced and exported.
 
--   **2** small structures made of microtubules which exists as part of the centrosome (9)
+**2.** **Centrioles**\
+Small structures made of microtubules which exist as part of the centrosome.
 
--   **4** an organelle in eukaryotic organisms that moves molecules from the endoplasmic reticulum to their destination. (5,9)
+**4.** **Golgi apparatus**\
+An organelle in eukaryotic organisms that moves molecules from the endoplasmic reticulum to their destination.
 
--   **8** an organelle in the cytoplasm of a living cell; the site of protein synthesis (8)
+**8.** **Ribosome**\
+An organelle in the cytoplasm of a living cell; the site of protein synthesis.
 
 ## **Post Lab Activity 3.5 Matching**
 
@@ -474,17 +541,17 @@ Complete the crossword activity.
 Note: Except for the letters, Table 3.3 is a duplicate of Table 3.2. I decided not to remove the duplicates and keep the same activity and table numbers as in the source without skipping numbers.
 
 | Name | Description |
-|--------------------------|---------------------------------------------|
-| 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
-| 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
-| 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
-| 4\) \_\_\_\_\_\_\_\_\_\_ S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
-| 5\) \_\_\_\_\_\_\_\_\_\_ Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
-| 6\) \_\_\_\_\_\_\_\_\_\_ Prophase | f\) The summary of the G1, S, G2 phases |
-| 7\) \_\_\_\_\_\_\_\_\_\_ G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
-| 8\) \_\_\_\_\_\_\_\_\_\_ Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
-| 9\) \_\_\_\_\_\_\_\_\_\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
-| 10\) \_\_\_\_\_\_\_\_\_\_ Anaphase | j\) The final stage in cell division |
+|----|----|
+| 1\) **Interphase** | f\) The summary of the G1, S, G2 phases |
+| 2\) **G2 Phase** | e\) The cell grows a second time to reorganize its contents in preparation for mitosis |
+| 3\) **Metaphase** | i\) Occurs when chromosomes align in the center of the dividing cell |
+| 4\) **S phase** | d\) Occurs when the cell synthesizes a complete copy of the DNA |
+| 5\) **Mitosis (M phase)** | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells |
+| 6\) **Prophase** | a\) The first stage of mitosis |
+| 7\) **G1 phase** | c\) The cell grows physically larger, making molecular building blocks |
+| 8\) **Cytokinesis** | b\) The division of the cytoplasm of a cell |
+| 9\) **Telophase** | j\) The final stage in cell division |
+| 10\) **Anaphase** | h\) Observed when chromosomes move toward opposite ends of the spindle |
 
 ### **Labeling**
 
@@ -500,16 +567,16 @@ Label the following stages of the nucleus and of mitosis
 
 **Table 3.4 Answers for Figure 3.25 above**
 
-| Number | Structure |
-|--------|-----------|
-| 1a     |           |
-| 1b     |           |
-| 2      |           |
-| 3      |           |
-| 4a     |           |
-| 4b     |           |
-| 5      |           |
-| 6      |           |
+| Number | Structure                         |
+|--------|-----------------------------------|
+| 1a     | Chromatin                         |
+| 1b     | Chromosome                        |
+| 2      | Nucleolus                         |
+| 3      | Nuclear pore                      |
+| 4a     | Nuclear envelope (inner membrane) |
+| 4b     | Nuclear envelope (outer membrane) |
+| 5      | Cytoplasm                         |
+| 6      | Ribosome (on nuclear envelope)    |
 
 ### **Stages of Mitosis**
 
@@ -519,12 +586,12 @@ Label the following stages of the nucleus and of mitosis
 
 **Table 3.5 Matching Answers for the Stages of Mitosis**
 
-| Letter | Stage of mitosis |
+| Letter | Stage of Mitosis |
 |--------|------------------|
-| a      |                  |
-| b      |                  |
-| c      |                  |
-| e      |                  |
+| a      | Prophase         |
+| b      | Metaphase        |
+| c      | Anaphase         |
+| e      | Telophase        |
 
 ## **Additional Learning Resources:**
 
@@ -563,7 +630,7 @@ The Cell:
 **Chapter 3: Cells Glossary**
 
 | Terms | Definitions |
-|----------------------------|--------------------------------------------|
+|----|----|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |

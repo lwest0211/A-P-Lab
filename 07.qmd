@@ -91,17 +91,42 @@ b)  Identify vertebra from different regions by their characteristic features if
 
 Define the following key terms: axial skeleton.
 
--   Axial skeleton \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cranial bones \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Facial bones \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Suture \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Hyoid bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Vertebrae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Cervical \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Thoracic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Lumbar \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Sacrum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Coccyx \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **Axial skeleton**:\
+    The portion of the skeleton that forms the central axis of the body, including the skull, vertebral column, and rib cage; functions in support and protection of vital organs.
+
+-   **Cranial bones**:\
+    Bones of the skull that enclose and protect the brain (e.g., frontal, parietal, temporal, occipital).
+
+-   **Facial bones**:\
+    Bones that form the structure of the face and support the eyes, nose, and mouth (e.g., maxilla, mandible, zygomatic).
+
+-   **Suture**:\
+    An immovable fibrous joint that connects the bones of the skull.
+
+-   **Hyoid bone**:\
+    A U-shaped bone in the neck that supports the tongue and is not directly attached to other bones.
+
+-   **Vertebrae**:\
+    Individual bones that make up the vertebral column and protect the spinal cord.
+
+------------------------------------------------------------------------
+
+### Regions of the Vertebral Column
+
+-   **Cervical**:\
+    The first seven vertebrae (C1–C7) in the neck; support the head and allow movement.
+
+-   **Thoracic**:\
+    The next twelve vertebrae (T1–T12); articulate with ribs.
+
+-   **Lumbar**:\
+    The five vertebrae (L1–L5) in the lower back; bear most of the body’s weight.
+
+-   **Sacrum**:\
+    A triangular bone formed by fused vertebrae; connects spine to pelvis.
+
+-   **Coccyx**:\
+    The tailbone; formed by fused vertebrae at the base of the spine.
 
 ## **Prelab Activity 7.2:**
 
@@ -155,7 +180,7 @@ Bone Features: Review the information in table 7.1 before moving on to the next 
 Table 7.1 General Types Bone Features
 
 | Marking    | Description                    | Example                         |
-|------------------|---------------------------|---------------------------|
+|------------|--------------------------------|---------------------------------|
 | Head       | Prominent rounded surface      | Head of femur                   |
 | Facet      | Flat surface                   | Articular facets of vertebrae   |
 | Condyle    | Rounded surface                | Occipital condyle               |
@@ -188,16 +213,16 @@ Note if you are part of an online course and are completing this lab remotely, y
 
 Table 7.2 Review of the Appendicular and Axial Bones
 
-| Bone Name | Bone Shape Classification | Is this an axial or appendicular bone? |
-|-----------------------------|----------------------|----------------------|
-| Facial bone, e.g., maxilla |  |  |
-| Thoracic vertebra |  |  |
-| Scapula (“shoulder” bone) |  |  |
-| Radius (lateral forearm bone) |  |  |
-| Tarsal bones (7 bones of the ankle) |  |  |
-| Phalanges (“finger and toe” bones) |  |  |
-| Ribs |  |  |
-| Patella (“knee” bone) |  |  |
+| Bone Name | Bone Shape Classification | Axial or Appendicular |
+|----|----|----|
+| Facial bone (e.g., maxilla) | Irregular | Axial |
+| Thoracic vertebra | Irregular | Axial |
+| Scapula (“shoulder” bone) | Flat | Appendicular |
+| Radius (lateral forearm bone) | Long | Appendicular |
+| Tarsal bones (ankle bones) | Short | Appendicular |
+| Phalanges (“finger and toe” bones) | Long | Appendicular |
+| Ribs | Flat | Axial |
+| Patella (“knee” bone) | Sesamoid | Appendicular |
 
 ## **Organization of the Skeletal System**
 
@@ -472,7 +497,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.3 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|---------------|-----------------------------------------|----------------|
+|----|----|----|
 | 1\. | The cribriform plate is a surface filled with small foramina on the bone | a\. turbulence |
 | 2\. | The nasal conchae create, which increases the ability of the nose to trap dust. | b\. zygomatic |
 | 3\. | The of the mandible articulate with the temporal bone. | c\. nasal |
@@ -484,7 +509,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.4 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|-------|--------------------------------------------|------------------|
+|----|----|----|
 | 1\. | Main weight bearing portion of the vertebrae | a\. axis |
 | 2\. | Two parts of the vertebral arch that protect the spinal cord | b\. Thoracic vertebra |
 | 3\. | Contains the spinal cord | c\. lumbar vertebrae |
@@ -644,7 +669,7 @@ Name the bones.
 |                       | 9 passage         |
 
 | Terms | Definitions |
-|------------------------------------|------------------------------------|
+|----|----|
 | alveolar process of the mandible | upper border of mandibular body that contains the lower teeth |
 | alveolar process of the maxilla | curved, inferior margin of the maxilla that supports and anchors the upper teeth |
 | angle of the mandible | rounded corner located at outside margin of the body and ramus junction |

@@ -131,29 +131,18 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Directional terms
 
-+-----------------------+----------------------------------------------------+
 | Term                  | Definition                                         |
-+=======================+====================================================+
+|-----------------------|----------------------------------------------------|
 | Anterior (or ventral) | **Front of Body**                                  |
-+-----------------------+----------------------------------------------------+
 | Posterior (or dorsal) | **Back of Body**                                   |
-+-----------------------+----------------------------------------------------+
 | Superior (or cranial) | **Toward the Head**                                |
-+-----------------------+----------------------------------------------------+
 | Inferior (or caudal)  | **Toward the Tail**                                |
-+-----------------------+----------------------------------------------------+
 | Lateral               | **Away from the Midline**                          |
-+-----------------------+----------------------------------------------------+
 | Medial                | **Toward the Midline**                             |
-+-----------------------+----------------------------------------------------+
 | Proximal              | **Toward an Attached Base (Shoulder to Wrist)**    |
-+-----------------------+----------------------------------------------------+
 | Distal                | **Away from an attached Base (Fingers to Wrist)**  |
-+-----------------------+----------------------------------------------------+
 | Superficial           | **At, Near, or, Relatively Close to Body Surface** |
-+-----------------------+----------------------------------------------------+
 | Deep                  | **Toward the Interior of the Body**                |
-+-----------------------+----------------------------------------------------+
 
 ### Body Cavities
 
@@ -211,33 +200,20 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 **Table 1.2**. Identification of Organs and their Function
 
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| Organ System          | Function                                                                                                             | Organs                                              |
-+=======================+======================================================================================================================+=====================================================+
-| 1                     | **Integumentary- Body Structure/Sensory Receptors**                                                                  | **Hair/Skin/Nails**                                 |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 2                     | **Skeletal- Supports Body/Enable Movement w/Muscular**                                                               | **Cartilage/Bones/Joints**                          |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 3                     | **Muscular- Enables Movement/Maintain Body Temperature**                                                             | **Skeletal Muscles/Tendons**                        |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 4                     | **Nervous- Detect and Process Sensory Information/Activates Body response**                                          | **Brain, Spinal Cord, Peripheral Nerves**           |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 5                     | **Endocrine- Secrete Hormones/Regulate Body Processes**                                                              | **Pituitary, Adrenal, and Thyroid Glands/Pancreas** |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 6                     | **Cardiovascular- Delivers Oxygen and Nutrients to Tissues/Equalizes Body Temperature**                              | **Heart/Blood Vessels**                             |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 7                     | **Lymphatic- Returns Fluids to Blood/ Defends Against Pathogens**                                                    | **Spleen/Thymus/Lymph Nodes**                       |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 8                     | **Respiratory- Carbon Dioxide from the Body/Oxygen to the body**                                                     | **Nasal Passage/Trachea/Lungs**                     |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 9                     | **Digestive- Processes food for use by the body/removes waste**                                                      | **Stomach/Liver/Gall Bladder**                      |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 10                    | **Urinary- Controls water balance in the body/removes waste from the blood and excretes them**                       | **Kidneys/Urinary Bladder**                         |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 11a                   | **Male Reproductive- Produce Sex Hormones and Gametes/Deliver Gametes to female**                                    | **Epididymis/Testes**                               |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| 11b                   | **Female Reproductive- Produce Sex Hormones and Gametes/ Supports Embryo/fetus until birth/Produce milk for infant** | **Mammary Glands/Ovaries/Uterus**                   |
-+-----------------------+----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| Organ System | Function | Organs |
+|----|----|----|
+| 1 | **Integumentary- Body Structure/Sensory Receptors** | **Hair/Skin/Nails** |
+| 2 | **Skeletal- Supports Body/Enable Movement w/Muscular** | **Cartilage/Bones/Joints** |
+| 3 | **Muscular- Enables Movement/Maintain Body Temperature** | **Skeletal Muscles/Tendons** |
+| 4 | **Nervous- Detect and Process Sensory Information/Activates Body response** | **Brain, Spinal Cord, Peripheral Nerves** |
+| 5 | **Endocrine- Secrete Hormones/Regulate Body Processes** | **Pituitary, Adrenal, and Thyroid Glands/Pancreas** |
+| 6 | **Cardiovascular- Delivers Oxygen and Nutrients to Tissues/Equalizes Body Temperature** | **Heart/Blood Vessels** |
+| 7 | **Lymphatic- Returns Fluids to Blood/ Defends Against Pathogens** | **Spleen/Thymus/Lymph Nodes** |
+| 8 | **Respiratory- Carbon Dioxide from the Body/Oxygen to the body** | **Nasal Passage/Trachea/Lungs** |
+| 9 | **Digestive- Processes food for use by the body/removes waste** | **Stomach/Liver/Gall Bladder** |
+| 10 | **Urinary- Controls water balance in the body/removes waste from the blood and excretes them** | **Kidneys/Urinary Bladder** |
+| 11a | **Male Reproductive- Produce Sex Hormones and Gametes/Deliver Gametes to female** | **Epididymis/Testes** |
+| 11b | **Female Reproductive- Produce Sex Hormones and Gametes/ Supports Embryo/fetus until birth/Produce milk for infant** | **Mammary Glands/Ovaries/Uterus** |
 
 ## **Lab Activities**
 
@@ -310,17 +286,12 @@ Indicate in the boxes provided the deep and superficial positions.
 
 ## **Lab Activity 1.3**
 
-+-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
-| Quadrants                         | Organs                                                                                                                                       |
-+===================================+==============================================================================================================================================+
-| Right upper quadrant              | Liver (right lobe), Gallbladder, Part of pancreas, Right kidney, Portions of small and large intestines (duodenum, hepatic flexure of colon) |
-+-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
-| Right lower quadrant              | Appendix, Cecum, Part of small intestine (ileum), Right ovary and fallopian tube (in females), Right ureter                                  |
-+-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
-| Left upper quadrant               | Stomach, Spleen, Left lobe of liver, Part of pancreas, Left kidney, Portions of small and large intestines (splenic flexure of colon)        |
-+-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
-| Left lower quadrant               | Part of small intestine, Descending colon, Sigmoid colon, Left ovary and fallopian tube (in females), Left ureter                            |
-+-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Quadrants | Organs |
+|----|----|
+| Right upper quadrant | Liver (right lobe), Gallbladder, Part of pancreas, Right kidney, Portions of small and large intestines (duodenum, hepatic flexure of colon) |
+| Right lower quadrant | Appendix, Cecum, Part of small intestine (ileum), Right ovary and fallopian tube (in females), Right ureter |
+| Left upper quadrant | Stomach, Spleen, Left lobe of liver, Part of pancreas, Left kidney, Portions of small and large intestines (splenic flexure of colon) |
+| Left lower quadrant | Part of small intestine, Descending colon, Sigmoid colon, Left ovary and fallopian tube (in females), Left ureter |
 
 ## **Labeling Anatomical and Regional Terminology**
 
@@ -332,47 +303,30 @@ Indicate in the boxes provided the deep and superficial positions.
 
 ## **Lab Activity 1.4**
 
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Regions                           | Organs                                                                                |
-+===================================+=======================================================================================+
-| Left hypochondriac                | Spleen, part of stomach, tail of pancreas, left kidney, parts of colon                |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Epigastric                        | Stomach, liver (left lobe), pancreas, duodenum, adrenal glands                        |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Right hypochondriac               | Liver (right lobe), gallbladder, right kidney, part of small intestine                |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Left lumbar                       | Descending colon, left kidney, part of small intestine                                |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Umbilical                         | Small intestine (jejunum & ileum), transverse colon, lower part of duodenum           |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Right lumbar                      | Ascending colon, right kidney, part of small intestine                                |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Left iliac                        | Sigmoid colon, left ovary and fallopian tube (in females), part of small intestine    |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Hypogastric                       | Urinary bladder, sigmoid colon, uterus (in females), part of small intestine          |
-+-----------------------------------+---------------------------------------------------------------------------------------+
-| Right iliac                       | Cecum, appendix, right ovary and fallopian tube (in females), part of small intestine |
-+-----------------------------------+---------------------------------------------------------------------------------------+
+| Regions | Organs |
+|----|----|
+| Left hypochondriac | Spleen, part of stomach, tail of pancreas, left kidney, parts of colon |
+| Epigastric | Stomach, liver (left lobe), pancreas, duodenum, adrenal glands |
+| Right hypochondriac | Liver (right lobe), gallbladder, right kidney, part of small intestine |
+| Left lumbar | Descending colon, left kidney, part of small intestine |
+| Umbilical | Small intestine (jejunum & ileum), transverse colon, lower part of duodenum |
+| Right lumbar | Ascending colon, right kidney, part of small intestine |
+| Left iliac | Sigmoid colon, left ovary and fallopian tube (in females), part of small intestine |
+| Hypogastric | Urinary bladder, sigmoid colon, uterus (in females), part of small intestine |
+| Right iliac | Cecum, appendix, right ovary and fallopian tube (in females), part of small intestine |
 
 ## **Applying Anatomical and Regional Terminology**
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \#                                | Fill in the blank                                                                                                                                                                           |
-+===================================+=============================================================================================================================================================================================+
-| 1                                 | **The elbow is located Proximal to the wrist.**                                                                                                                                             |
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2                                 | **The umbilicus is located Inferior to the sternum.**                                                                                                                                       |
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3                                 | **The nose is located Medial and Anterior to the ears.**                                                                                                                                    |
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4                                 | **The mouth is located Superior to the chin.**                                                                                                                                              |
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5                                 | **A papercut that does not penetrate the skin would be considered as a Superficial wound; however, a puncture wound from a nail penetrating the skin would be considered as a Deep wound.** |
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6                                 | **A wound on the elbow would be Surface to the elbow.**                                                                                                                                     |
-+-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \# | Fill in the blank |
+|----|----|
+| 1 | **The elbow is located Proximal to the wrist.** |
+| 2 | **The umbilicus is located Inferior to the sternum.** |
+| 3 | **The nose is located Medial and Anterior to the ears.** |
+| 4 | **The mouth is located Superior to the chin.** |
+| 5 | **A papercut that does not penetrate the skin would be considered as a Superficial wound; however, a puncture wound from a nail penetrating the skin would be considered as a Deep wound.** |
+| 6 | **A wound on the elbow would be Surface to the elbow.** |
 
 ## **Lab Activity 1.5**
 
@@ -380,37 +334,37 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 
 Next, using the definition of anatomical position and correct anatomical language, take turns with your lab partner to give simple, one-movement verbal instructions to transition from the given starting positions (listed in the table below), so that the other person ends up in anatomical position. Write your detailed step-by-step instructions on the provided table.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| Starting Position                                                                                                                                                              | Image                                               | Instructions Given to Move to Anatomical Position                                                      |
-+================================================================================================================================================================================+=====================================================+========================================================================================================+
-| Example: Standing from a Half Spinal Twist with the feet placed to the left, the torso twisted away from you and the head facing at a slight angle to the right, away from you | ![Figure 1.6](images/fig1.6.jpeg){alt="Figure 1.6"} | Example:                                                                                               |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | -   Rotate the mental region anteriorly and medially.                                                  |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | -   Rotate the entire body 180 degrees to the left.                                                    |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | -   Position palmar region anteriorly                                                                  |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| 1: From lying face-up on the ground with their head, back, hands, and feet on the floor with both knees bent                                                                   | ![Figure 1.7](images/fig1.7.jpeg){alt="Figure 1.7"} | · **Extend both knees to straighten the lower limbs.**                                                 |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Extend the hips to bring the thighs into alignment with the trunk.**                               |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Adduct the upper limbs so the arms are positioned at the sides.**                                  |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Supinate the forearms to position the palmar regions anteriorly.**                                 |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Move to an upright standing position with the head facing anteriorly and feet flat on the floor.** |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| 2: From a seated position on the floor with their legs straight and arms folded across their chest                                                                             | ![Figure 1.8](images/fig1.8.jpeg){alt="Figure 1.8"} | · **Extend the hips and knees to rise to a standing position.**                                        |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Unfold and extend the upper limbs.**                                                               |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Adduct the arms so they rest at the sides of the body.**                                           |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Supinate the forearms so the palmar regions face anteriorly.**                                     |
-|                                                                                                                                                                                |                                                     |                                                                                                        |
-|                                                                                                                                                                                |                                                     | · **Align the head to face anteriorly with the body upright and feet pointing forward.**               |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------+
+| Starting Position                                                                                                                                                              | Image                             | Instructions Given to Move to Anatomical Position                                                      |
++================================================================================================================================================================================+===================================+========================================================================================================+
+| Example: Standing from a Half Spinal Twist with the feet placed to the left, the torso twisted away from you and the head facing at a slight angle to the right, away from you | ![Figure 1.6](images/fig1.6.jpeg) | Example:                                                                                               |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | -   Rotate the mental region anteriorly and medially.                                                  |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | -   Rotate the entire body 180 degrees to the left.                                                    |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | -   Position palmar region anteriorly                                                                  |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------+
+| 1: From lying face-up on the ground with their head, back, hands, and feet on the floor with both knees bent                                                                   | ![Figure 1.7](images/fig1.7.jpeg) | · **Extend both knees to straighten the lower limbs.**                                                 |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Extend the hips to bring the thighs into alignment with the trunk.**                               |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Adduct the upper limbs so the arms are positioned at the sides.**                                  |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Supinate the forearms to position the palmar regions anteriorly.**                                 |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Move to an upright standing position with the head facing anteriorly and feet flat on the floor.** |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------+
+| 2: From a seated position on the floor with their legs straight and arms folded across their chest                                                                             | ![Figure 1.8](images/fig1.8.jpeg) | · **Extend the hips and knees to rise to a standing position.**                                        |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Unfold and extend the upper limbs.**                                                               |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Adduct the arms so they rest at the sides of the body.**                                           |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Supinate the forearms so the palmar regions face anteriorly.**                                     |
+|                                                                                                                                                                                |                                   |                                                                                                        |
+|                                                                                                                                                                                |                                   | · **Align the head to face anteriorly with the body upright and feet pointing forward.**               |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------+
 
 ## **Lab Activity 1.6**
 
@@ -600,33 +554,20 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 **Table 1.5 Organ systems and their Organs**
 
-+-----------------------------------+-----------------------------------------------------+
-| Organ System                      | Organs                                              |
-+===================================+=====================================================+
-| **1 Integumentary**               | **Hair/Skin/Nails**                                 |
-+-----------------------------------+-----------------------------------------------------+
-| **2 Skeletal**                    | **Cartilage/Bones/Joints**                          |
-+-----------------------------------+-----------------------------------------------------+
-| **3 Muscular**                    | **Skeletal Muscles/Tendons**                        |
-+-----------------------------------+-----------------------------------------------------+
-| **4 Nervous**                     | **Brain/Spinal Cord/Peripheral Nerves**             |
-+-----------------------------------+-----------------------------------------------------+
-| **5 Endocrine**                   | **Pituitary, Adrenal, and Thyroid Glands/Pancreas** |
-+-----------------------------------+-----------------------------------------------------+
-| **6 Cardiovacular**               | **Heart/Blood Vessels**                             |
-+-----------------------------------+-----------------------------------------------------+
-| **7 Lymphatic**                   | **Spleen/Thymus/Lymph Nodes**                       |
-+-----------------------------------+-----------------------------------------------------+
-| **8 Respiratory**                 | **Nasal Passage/Trachea/Lungs**                     |
-+-----------------------------------+-----------------------------------------------------+
-| **9 Digestive**                   | **Stomach/Liver/Gall Bladder**                      |
-+-----------------------------------+-----------------------------------------------------+
-| **10 Urinary**                    | **Kidneys/Urinary Bladder**                         |
-+-----------------------------------+-----------------------------------------------------+
-| **11a Male Reproductive**         | **Epididymis/Testes**                               |
-+-----------------------------------+-----------------------------------------------------+
-| **11b Female Reproductive**       | **Mammary Glands/Ovaries/Uterus**                   |
-+-----------------------------------+-----------------------------------------------------+
+| Organ System | Organs |
+|----|----|
+| **1 Integumentary** | **Hair/Skin/Nails** |
+| **2 Skeletal** | **Cartilage/Bones/Joints** |
+| **3 Muscular** | **Skeletal Muscles/Tendons** |
+| **4 Nervous** | **Brain/Spinal Cord/Peripheral Nerves** |
+| **5 Endocrine** | **Pituitary, Adrenal, and Thyroid Glands/Pancreas** |
+| **6 Cardiovacular** | **Heart/Blood Vessels** |
+| **7 Lymphatic** | **Spleen/Thymus/Lymph Nodes** |
+| **8 Respiratory** | **Nasal Passage/Trachea/Lungs** |
+| **9 Digestive** | **Stomach/Liver/Gall Bladder** |
+| **10 Urinary** | **Kidneys/Urinary Bladder** |
+| **11a Male Reproductive** | **Epididymis/Testes** |
+| **11b Female Reproductive** | **Mammary Glands/Ovaries/Uterus** |
 
 ## **Post Lab Activity: Review material**
 
